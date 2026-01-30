@@ -14,4 +14,4 @@ Link Repository: https://github.com/elenaderensis/powerbi-operational-performanc
 ### London Bike Rides (Tableau)
 Interactive Tableau dashboard analysing bike rides in the London area to uncover pattern and trends.
 
-Lind Repository: https://github.com/elenaderensis/tableau-london-bike-rides/blob/main/README.md
+Lind Repository: https://github.com/elenaderensis/tableau-london-bike-rides
