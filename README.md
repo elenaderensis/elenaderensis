@@ -10,3 +10,8 @@ Link Repository: https://github.com/elenaderensis/excel-coffee-sales-dashboard
 Interactive PowerBi dasboard transforming raw operational data into actionable insights for plant-level profitability monitoring across 15+ countries.
 
 Link Repository: https://github.com/elenaderensis/powerbi-operational-performance-dashboard
+
+### London Bike Rides (Tableau)
+Interactive Tableau dashboard analysing bike rides in the London area to uncover pattern and trends.
+
+Lind Repository: https://github.com/elenaderensis/tableau-london-bike-rides/blob/main/README.md
