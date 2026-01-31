@@ -19,4 +19,4 @@ Link Repository: https://github.com/elenaderensis/tableau-london-bike-rides
 ### Movie Correlation Analysis (Python)
 Python correlation analysis of 4,803 movies proving audience engagement (r=0.78) predicts box office revenue better than production budgets (r=0.73).
 
-Link Repository: https://github.com/elenaderensis/python-revenue-correlation-analysis/tree/main
+Link Repository: https://github.com/elenaderensis/python-revenue-correlation-analysis
