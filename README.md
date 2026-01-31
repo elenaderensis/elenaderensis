@@ -2,21 +2,21 @@
 ## Projects
 
 ### Coffee Sales Dashboard (Excel)
-Interactive Excel dashboard analyzing 1,000+ coffee orders.
+Excel dashboard analyzing 1,000+ coffee orders to identify revenue drivers, customer segments, and geographic opportunities—US market generates 78% of sales.
 
 Link Repository: https://github.com/elenaderensis/excel-coffee-sales-dashboard
 
 ### Operational Performance Dashboard (PowerBI)
-Interactive PowerBi dasboard transforming raw operational data into actionable insights for plant-level profitability monitoring across 15+ countries.
+Power BI dashboard consolidating 500K+ transactions across 15+ countries, identifying -$265K YTD variance and 75% growth opportunities in top-performing markets.
 
 Link Repository: https://github.com/elenaderensis/powerbi-operational-performance-dashboard
 
 ### London Bike Rides (Tableau)
-Interactive Tableau dashboard analysing bike rides in the London area to uncover pattern and trends.
+Tableau analysis of 4.3M bike rides revealing weather-dependent usage patterns—optimal conditions (15-25°C) drive 70% of total ridership.
 
 Link Repository: https://github.com/elenaderensis/tableau-london-bike-rides
 
 ### Movie Correlation Analysis (Python)
-Python analysis proving audience engagement drives movie revenue (r=0.78) better than big budgets (r=0.73).
+Python correlation analysis of 4,803 movies proving audience engagement (r=0.78) predicts box office revenue better than production budgets (r=0.73).
 
 Link Repository: https://github.com/elenaderensis/python-revenue-correlation-analysis/tree/main
