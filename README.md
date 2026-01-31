@@ -14,4 +14,9 @@ Link Repository: https://github.com/elenaderensis/powerbi-operational-performanc
 ### London Bike Rides (Tableau)
 Interactive Tableau dashboard analysing bike rides in the London area to uncover pattern and trends.
 
-Lind Repository: https://github.com/elenaderensis/tableau-london-bike-rides
+Link Repository: https://github.com/elenaderensis/tableau-london-bike-rides
+
+### Movie Correlation Analysis (Python)
+Python analysis proving audience engagement drives movie revenue (r=0.78) better than big budgets (r=0.73).
+
+Link Repository: https://github.com/elenaderensis/python-revenue-correlation-analysis/tree/main
