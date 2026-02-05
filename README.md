@@ -16,10 +16,10 @@ Tableau analysis of 4.3M bike rides revealing weather-dependent usage patternsâ€
 
 Link Repository: https://github.com/elenaderensis/tableau-london-bike-rides
 
-### Movie Correlation Analysis (Python)
-Python correlation analysis of 4,803 movies proving audience engagement (r=0.78) predicts box office revenue better than production budgets (r=0.73).
+### Global Population Trends Analysis (Python)
+End-to-end Python exploratory data analysis identifying global population growth patterns, data quality issues, and region-level insights through KPI creation, trend analysis, and visualization to support data-driven decision-making.
 
-Link Repository: https://github.com/elenaderensis/python-revenue-correlation-analysis
+Link Repository: https://github.com/elenaderensis/EDA-world-population-python
 
 ### Gold Sales Code (SQL)
 SQL-based end-to-end analysis of 60K+ e-commerce transactions to deliver customer segmentation, product performance benchmarking, and revenue trend insights across 7 countries.
